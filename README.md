@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/careerp1.gif" width="300"/>
 </div>
+<p width="300"> </p>
+<p> </p>
 
 <div id="badges" align="center">
   <a href="https://t.me/infosecoff">
