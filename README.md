@@ -8,5 +8,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=nverenchik&style=flat-square&color=blue" align="center"/>
 
-### :man_technologist: About Me :
-I
+
