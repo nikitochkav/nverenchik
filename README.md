@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmEcHyb9myhLsex5GctZr7bdTPqL7j5tnfQOGBNnqOrVoS9gPHHQ6PwgHP9yC3h3kKX8&usqp=CAU.gif" width="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmEcHyb9myhLsex5GctZr7bdTPqL7j5tnfQOGBNnqOrVoS9gPHHQ6PwgHP9yC3h3kKX8&usqp=CAU.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/infosecoff">
